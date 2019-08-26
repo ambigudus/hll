@@ -1,3 +1,3 @@
 # hll
 Hyperloglog
-Estimate cardinality of a streaming.
+:Estimate cardinality of a streaming.
